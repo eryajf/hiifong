@@ -1,13 +1,13 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=hiifong&show_icons=true)
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 15 mins
+Total: 1 hr 17 mins
 
-TOML       1 hr 26 mins    ████████████▒░░░░░░░░░░░░   49.25 % 
-Other      38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 % 
-HTML       20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-YAML       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other      33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
+TOML       32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 % 
+HTML       20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
+YAML       10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Markdown   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 ```
 <!--END_SECTION:waka-->
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiifong&theme=react-dark)
