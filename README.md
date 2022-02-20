@@ -1,8 +1,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=hiifong&show_icons=true)
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 17 mins
-
 Other      33 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 % 
 TOML       32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 % 
 HTML       20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
