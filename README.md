@@ -8,6 +8,8 @@ JSON       12 mins         ██▓░░░░░░░░░░░░░░�
 PHP        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
-
+ . | .
+--- | --- 
+![hiifong's github stats](https://github-readme-stats.vercel.app/api?username=hifong&show_icons=true&include_all_commits=true) | ![hiifong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiifong&layout=compact)
 <!--END_SECTION:waka-->
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiifong&theme=react-dark)
