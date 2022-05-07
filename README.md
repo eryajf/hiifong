@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiifong" alt="hiifong" /></a> </p>
 
-- 📝 I regularly write articles on [https://52at.ml](https://52at.ml)
+- 📝 I regularly write articles on [https://52at.ml](https://52at.ml) or [https://fixbug.app](https://fixbug.app)
 
 - 📫 How to reach me **hiifong@52at.ml**
 
