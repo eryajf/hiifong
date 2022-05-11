@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://52at.ml](https://52at.ml) or [https://fixbug.app](https://fixbug.app)
 
-- 📝 My gitea: [https://code.fixbug.app](https:code.fixbug.app)
+- 📝 My gitea: [https://code.fixbug.app](https://code.fixbug.app)
 
 - 📫 How to reach me **hiifong@52at.ml**
 
