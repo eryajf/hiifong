@@ -9,7 +9,7 @@
 
 - 📝 My gitea: [https://code.fixbug.app](https://code.fixbug.app)
 
-- 📫 How to reach me **hiifong@52at.ml**
+- 📫 How to reach me **hiifong@52at.ml** or **hiifong.stu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
