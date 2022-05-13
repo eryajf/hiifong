@@ -25,5 +25,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiifong&" alt="hiifong" /></p>
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiifong&theme=react-dark)
