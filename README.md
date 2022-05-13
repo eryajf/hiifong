@@ -27,7 +27,9 @@
 
 <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+```text
+Other        40 hrs 25 mins  ███████████████████████▓░   95.00 %
+```
 
 <!--END_SECTION:waka-->
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiifong&theme=react-dark)
