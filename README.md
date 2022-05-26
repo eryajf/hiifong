@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiifong" alt="hiifong" /></a> </p>
 
-- 📝 I regularly write articles on [https://52at.ml](https://52at.ml) or [https://fixbug.app](https://fixbug.app)
+- 📝 I regularly write articles on [https://blog.hiifong.cc]([https://52at.ml](https://blog.hiifong.cc)) or [https://52at.ml](https://52at.ml) or [https://fixbug.app](https://hiifong.fixbug.app)
 
-- 📝 My gitea: [https://code.fixbug.app](https://code.fixbug.app)
 
-- 📫 How to reach me **hiifong@52at.ml** or **hiifong.stu@gmail.com**
+- 📫 How to reach me **i@hiifong.cc** or **hiifong.stu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
