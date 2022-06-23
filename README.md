@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm hiifong</h1>
 <h3 align="center">Full stack developer like</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiifong&label=Profile%20views&color=0e75b6&style=flat" alt="hiifong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiifong" alt="hiifong" /></a> </p>
 
